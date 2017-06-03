@@ -1,1 +1,3 @@
-To jest prosty projekt kalkulatora
+To jest prosty projekt kalkulatora.
+
+Autor: Damian
