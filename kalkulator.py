@@ -1,6 +1,5 @@
-def dodawanie():
-	a =int(imput())
-	b =int(imput())
-	print(a+b)
-
-	dodawanie()
+def dodawanie(a,b):
+	wynik = a + b
+	return wynik
+	
+dodawanie()
