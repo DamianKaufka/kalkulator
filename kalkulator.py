@@ -3,4 +3,8 @@ def dodawanie():
 	b =int(imput())
 	print(a+b)
 
-	dodawanie()
+def get_info():
+		print("To jest prosty kalkulator")
+	
+get_info()	
+dodawanie()
